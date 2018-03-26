@@ -1,0 +1,3 @@
+type Viwer implements Node {
+  name: String!
+}
